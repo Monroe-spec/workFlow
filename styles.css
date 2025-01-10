@@ -10,7 +10,9 @@ h1 {
 }
 
 h2 {
-    font-size 12;
+    font-size: 12em;
+    text-align: center;
+    text-decoration: solid;
 }
 
 p {
