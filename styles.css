@@ -1,0 +1,22 @@
+body {
+    background-color: #cacaca;
+    
+}
+
+h1 {
+    text-align: center;
+    font-size: 9em;
+    color: #000000;
+}
+
+p {
+    color: #000000;
+    text-align: center;
+    font-size: 2em;
+}
+
+img {
+    height: 20em;
+    width: 80em;
+    
+}
