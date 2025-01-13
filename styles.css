@@ -13,6 +13,7 @@ h2 {
     font-size: 12em;
     text-align: center;
     text-decoration: solid;
+    text-decoration: underline;
 }
 
 p {
